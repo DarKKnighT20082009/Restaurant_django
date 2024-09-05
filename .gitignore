@@ -1,0 +1,11 @@
+venv
+*.yml
+.idea
+db.sqlite3
+__pycache__
+fastfood/__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+bot
